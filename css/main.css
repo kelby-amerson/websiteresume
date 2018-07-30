@@ -1,5 +1,5 @@
 body {
-  background-color: #f2f2f2;
+  background-color: #C1E3F5;
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
@@ -28,7 +28,7 @@ p {
 
 /* Links */
 a {
-  color: #1CBCAD;
+  color: #C1E3F5;
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -69,8 +69,8 @@ a:after {
 
 /* Header Wrap */
 .header {
-  background: #1CBCAD;
-  background: url(../images/header-bg.jpg) no-repeat center top;
+  background: #2591DB;
+  background: url(../images/header-bg-2.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -106,14 +106,14 @@ a:after {
 
 /* About Wrap */
 .about {
-  background: #2c3e50;
+  background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
 } 
 
 .about h5, p {
-  color: white;
+  color: #34495e;
 }
 
 .about i {
