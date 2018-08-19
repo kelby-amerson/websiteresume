@@ -123,6 +123,12 @@ a:after {
   vertical-align: middle;
 }
 
+.about imp {
+  padding: 6px;
+  color: white;
+  background: #34495e;
+}
+
 .footer {
   background: #2f2f2f;
   padding-top: 50px;
